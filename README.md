@@ -1,2 +1,2 @@
 # whatsapp-clone
-A whatsapp clone with dart 
+Just a simple whatsapp clone with dart 
