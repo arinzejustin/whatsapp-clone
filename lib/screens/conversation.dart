@@ -11,6 +11,5 @@ List<String> imageUrls = [
   "images/8.png",
   "images/12.jpg",
   "images/do.jpg",
-  "images/images.jpg",
-  "images/download.jpg"
+  "images/images.jpg"
 ];
